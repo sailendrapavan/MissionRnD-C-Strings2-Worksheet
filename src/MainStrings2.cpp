@@ -13,12 +13,12 @@ Objectives of C-Strings-2 Lesson:
 
 
 int main(){
-
-
-	//Test Consonants_Vowels
-
+	 
+	char *c, *v;
+	
+	 
 	//Test getFrequencyofWord
-
+	
 	//Test getSubstring
 
 	//Test getLastWord
